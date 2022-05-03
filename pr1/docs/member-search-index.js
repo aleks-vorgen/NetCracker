@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ua.edu.operations","c":"Operation","l":"getResult()"},{"p":"ua.edu","c":"MainClass","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"ua.edu","c":"MainClass","l":"MainClass()","u":"%3Cinit%3E()"},{"p":"ua.edu.operations","c":"Operation","l":"Operation(int, int)","u":"%3Cinit%3E(int,int)"}];updateSearchResults();

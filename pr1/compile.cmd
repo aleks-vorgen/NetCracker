@@ -1,0 +1,1 @@
+javac -d classes -sourcepath sources sources\ua\edu\MainClass.java
